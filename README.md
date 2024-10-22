@@ -25,8 +25,8 @@ A simple recipe page challenge coded using only the basics. No frameworks like f
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/AdrienneAEW/recipe-page-main)
+- Live Site URL: [Add live site URL here](https://adrienneaew.github.io/recipe-page-main/)
 
 ## My process
 My process was to stick with the basic, see if I could position elements without using a framework. And of course getting as close the orignal design as possible without have specs. I'm happy with the results.
