@@ -21,7 +21,7 @@ A simple recipe page challenge coded using only the basics. No frameworks like f
 
 ### Screenshot
 
-![Alt](/assets/images/RecipePage-Screenshot.jpeg, 'recipe screenshot')
+![Alt](/assets/images/RecipePage-Screenshot.jpeg 'recipe screenshot')
 
 ### Links
 
